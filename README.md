@@ -39,7 +39,7 @@ It occurs the same as the school spending and school type, it doesn´t affect th
 
 
 
-Summary: 
+### Summary: 
 - Decrease in District Summary after changes in reading and math scores for ninth grade students at Thomas High Scool
 - Decrease in Overall passing percentages for Thomas High School
 - Decrease in passing Math and Reading in aproximately 20% each.
